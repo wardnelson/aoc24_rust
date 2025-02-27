@@ -1,0 +1,3 @@
+cargo run -- aoc1_input.txt
+
+cargo test
